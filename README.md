@@ -10,6 +10,7 @@ Select the Category you want to watch .
 ![selcet Categoriy movie](https://user-images.githubusercontent.com/84612001/175474651-1508cada-1f3c-48e7-8543-35c77200beee.png)
 
 
+![WhatsApp Image 2022-07-03 at 1 26 24 AM](https://user-images.githubusercontent.com/84612001/177568309-eff470f2-f856-456e-9806-083c9457712c.jpeg)
 
 
 ## Getting Started
